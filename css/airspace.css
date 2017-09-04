@@ -153,6 +153,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
+  font-family: 'Patrick Hand SC', sans-serif;
   color: #7B7B7B;
   padding-top: 20px;
 }
@@ -167,7 +168,6 @@ header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .post p {
-  font-family: 'Bungee Shade';
   color: #7B7B7B;
   padding-top: 20px;
 }
