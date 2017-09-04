@@ -264,7 +264,7 @@ header .navbar-default .navbar-nav li a:hover {
   background-repeat: no-repeat;
   background-position: center center;
 	/*background-color: #fff;*/
-  background-color: #73efc2;
+  background-color: #72bfbf;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -585,7 +585,7 @@ header .navbar-default .navbar-nav li a:hover {
   /*color: #fff;
   background: rgba(0, 0, 0, 0.6);*/
   color: #e0e2e2;
-  background: rbga(224, 226, 226, 0.6);
+  background: rgba(224, 226, 226, 0.6);
   padding-left: 44px;
   padding-top: 140px;
 }
