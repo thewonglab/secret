@@ -146,6 +146,7 @@ header .navbar-default .navbar-nav li a:hover {
   padding: 100px 0;
 }
 #intro .block h2 {
+  font-family: 'Bungee Shade', bold;
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
@@ -584,7 +585,8 @@ header .navbar-default .navbar-nav li a:hover {
   height: 100%;
   /*color: #fff;
   background: rgba(0, 0, 0, 0.6);*/
-  color: #e0e2e2;
+  /*color: #e0e2e2;*/
+  color: #9e8ead
   background: rgba(224, 226, 226, 0.6);
   padding-left: 44px;
   padding-top: 140px;
