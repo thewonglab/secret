@@ -241,6 +241,7 @@ header .navbar-default .navbar-nav li a:hover {
   line-height: 1.6;
 }
 #call-to-action .btn-call-to-action {
+  font-family: 'Patrick Hand SC', sans-serif;
   padding: 15px 35px;
   border: none;
   background-color: #fff;
