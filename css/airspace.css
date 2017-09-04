@@ -121,7 +121,8 @@ header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #slider .block {
-  color: #E3E3E4;
+  color: #e6af4b;
+  /*color: #E3E3E4;*/
 }
 #slider .block h1 {
   font-family: 'Bungee Shade', bold;
