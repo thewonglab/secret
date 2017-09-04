@@ -144,6 +144,7 @@ header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
+  background-color: #b79fc6;
 }
 #intro .block h2 {
   font-family: 'Bungee Shade', bold;
