@@ -117,12 +117,12 @@ header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  /*background: linear-gradient(to left, #8b86a3, #322e40);*/
+  background: linear-gradient(to left, #e5ad47, #e6af4b);
   opacity: 0.8;
 }
 #slider .block {
-  color: #e6af4b;
-  /*color: #E3E3E4;*/
+  color: #E3E3E4;
 }
 #slider .block h1 {
   font-family: 'Bungee Shade', bold;
