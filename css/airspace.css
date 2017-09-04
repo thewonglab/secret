@@ -229,12 +229,14 @@ header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #call-to-action h2 {
+  font-family: 'Patrick Hand SC', sans-serif;
   padding-bottom: 20px;
   line-height: 33px;
   margin: 0;
   font-size: 30px;
 }
 #call-to-action p {
+  font-family: 'Patrick Hand SC', sans-serif;
   font-size: 14px;
   line-height: 1.6;
 }
