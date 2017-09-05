@@ -50,7 +50,7 @@ a,
 a:active,
 a:focus,
 a:active {
-  text-decoration: none !important;
+  text-decoration: none;
 }
 .section-title {
   margin-bottom: 70px;
@@ -122,11 +122,10 @@ header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #slider .block {
-  color: #E3E3E4;
+  color: #b7b7b7;
 }
 #slider .block h1 {
   font-family: 'Bungee Shade', bold;
-  color: #d9dbd9;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
