@@ -122,7 +122,7 @@ header .navbar-default .navbar-nav li a:hover {
   opacity: 0.8;
 }
 #slider .block {
-  color: #b7b7b7;
+  color: #fcf9f9;
 }
 #slider .block h1 {
   font-family: 'Bungee Shade', bold;
@@ -133,7 +133,7 @@ header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 45px;
 }
 #slider .block p {
-  font-size: 28px;
+  font-size: 26px;
   line-height: 40px;
   font-family: 'Patrick Hand SC', sans-serif;
   font-color: #707270;
